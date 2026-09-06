@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectTemplate xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <developerName xsi:nil="true"/>
+    <entityPayload>{&quot;devName&quot;:&quot;SalesforceDotCom_Home&quot;,&quot;masterLabel&quot;:&quot;Salesforce Connector Cognizant technology solutions Home&quot;,&quot;dataConnectorType&quot;:&quot;SalesforceDotCom&quot;,&quot;extRecordId&quot;:&quot;00Dbm00000x9JGt&quot;,&quot;alias&quot;:&quot;Home&quot;,&quot;dsTenantDevName&quot;:&quot;SalesforceDotCom_Home&quot;,&quot;dsTenantMasterLabel&quot;:&quot;Cognizant technology solutions&quot;,&quot;dsTenantExtRecordId&quot;:&quot;core/prod/00Dbm00000x9JGtEAM&quot;}</entityPayload>
+    <masterLabel>Salesforce Connector Cognizant technology solutions Home</masterLabel>
+    <parentDataPackageKitDefinitionName xsi:nil="true"/>
+    <sourceObject>0hMbm000002DfAfEAK</sourceObject>
+    <sourceObjectType>InternalDataConnector</sourceObjectType>
+    <templateVersion>1</templateVersion>
+</DataKitObjectTemplate>
